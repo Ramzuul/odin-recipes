@@ -1,2 +1,2 @@
 # odin-recipes
-HTML recipe wesbite tutorial project from Odin Project
+HTML recipe website tutorial project from Odin Project
